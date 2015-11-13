@@ -8,7 +8,7 @@ Primero que nada les mostrare el pequeño formulario en donde supondremos que es
 
 NOTA: es muy importante que tengan JQuery referenciado ya sea por CDN o en archivo local y tener instalado un servidor local para poder correr php (xamp, lamp, wamp etc.).
 
-{% highlight javascript linenos %}
+{% highlight html linenos %}
 <!DOCTYPE html>
 	<html lang="es">
 	 <head>
