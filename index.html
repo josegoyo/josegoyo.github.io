@@ -13,7 +13,7 @@ comments: true
   <p>Aquí abajo encontrarás los posts mas recientes, espero que te sean utiles.</p>
 </div>
 
-<div class="posts-list contenido">
+<div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -42,7 +42,7 @@ comments: true
 </div>
 
 {% if paginator.total_pages > 1 %}
-<ul class="pager main-pager contenido">
+<ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
