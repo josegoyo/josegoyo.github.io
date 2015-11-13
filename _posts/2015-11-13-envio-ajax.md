@@ -103,3 +103,5 @@ Así quedaría el código completo del lado del html ya que el php queda como se
 </html>
 {% endhighlight %}
 
+
+
