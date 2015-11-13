@@ -25,11 +25,11 @@ description: Blog personal para noticias y chismes.
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/Code.png"
 
-# List of links in the navigation bar
+# List of links in the navigation bar, solo colocar nombre de archivos en los ""
 navbar-links:
   Inicio: ""
-  Acerca: "aboutme"
-  Contacto: "contact"
+  Acerca: ""
+  Contacto: ""
 
 # --- Footer options --- #
 
