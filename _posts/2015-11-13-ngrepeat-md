@@ -74,7 +74,31 @@ angular.module('app', []) // recuerda poner el nombre del modulo igual al del ng
 }])
 {% endhighlight %}
 
+Ahora solo falta agregar el tag en el html en donde se verán los datos, el código quedará de la siguiente manera: 
 
+{% highlight html linenos %}
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+   <meta charset="UTF-8" />
+   <title> ng-repeat -> AngularJS </title>
+   <script src="./vendors/angular.min.js"></script>
+   <script src="./vendors/js/app.js"></script>
+ </head>
+ <body ng-app="app">
+
+   <div ng-controller="Ctrl1">
+       <h3>ng-repeat</h3> 
+       <!-- Dentro de este div se reflejaran los datos y aquí declaramos nuestra directiva ng-repeat -->
+       <div ng-repeat="item in libros">
+            <span>Autor: </span>{{item.autor}}
+            <span>Libro: </span>{{item.libro}}
+       </div>
+   </div>
+
+ </body>
+</html>
+{% endhighlight %}
 
 
 
