@@ -40,13 +40,6 @@ hr.small {
   border-radius: 3px;
 }
 
-.contenido{
-	border: thin solid;
-    width: 140%;
-    /* margin: 0.5em auto; */
-    margin-left: -7em;
-}
-
 .contenedor-primario{
 	text-align: center;
 }
