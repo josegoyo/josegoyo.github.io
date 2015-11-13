@@ -32,10 +32,8 @@ comments: true
 
     <div class="post-entry">
       {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
 
-	{% if page.comments %}
+      {% if page.comments %}
   	<div id="disqus_thread"></div>
 		<script>
 		/**
@@ -60,6 +58,10 @@ comments: true
 		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
 		</noscript>
   	{% endif %}
+
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
 
    </article>
   {% endfor %}
