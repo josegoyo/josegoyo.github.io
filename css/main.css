@@ -41,6 +41,7 @@ hr.small {
 }
 .contenedor{
 	border:thin solid red;
+	width: 90%;
 }
 .main-content {
 	width: 80%;
