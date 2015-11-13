@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: José Gregorio Calderón
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Contact: "contact"
+  Contact: ""
 
 # --- Footer options --- #
 
