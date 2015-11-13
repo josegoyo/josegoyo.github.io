@@ -77,12 +77,14 @@ img::-moz-selection {
   background: transparent;
 }
 
-.disqus-comments {
-  margin-top: 30px;
+.disqus_thread {
+	margin-top: 30px;
+	widows: 70%;
+	margin: 0.5em auto;
 }
 
 @media only screen and (min-width: 768px) {
-  .disqus-comments {
+  .disqus_thread {
     margin-top: 40px;
   }
 }
