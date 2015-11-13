@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Acerca
+subtitle: conoceme un poco más...
 ---
 
 My name is Inigo Montoya. I have the following qualities:
+Mi nombre es josé gregorio calderon, me gusta el desarrollo de software
+estoy en enfocado mas a la web, me gustaria especializarme en JavaScript.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Muchas cosas más..
 
 What else do you need?
 

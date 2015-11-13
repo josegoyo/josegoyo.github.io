@@ -1,20 +1,16 @@
 ---
-layout: minimal
-js: "/js/contact.js"
-css: "/css/contact.css"
-googlefonts: Lobster
+layout: page
+title: Contacto
+subtitle: 
 ---
 
-Just kidding, you can't contact me here.  
+datos para contactar
 
-But this little page shows you how you can write a minimalist page if you ever want to have some page without the header and all the other bulky stuff.
+- I rock a great mustache
+- I'm extremely loyal to my family
 
-It's also an example of how you can easily add CSS or JavaScript files to a template.
+What else do you need?
 
-<div id="contact-div">I should be coloured in red to show that the CSS works</div>
+### my history
 
-<button type="button" class="btn btn-default" id="contact-btn">
-  Click me
-</button>
-
-<p id="googlefont-test">You can even use any <a href="http://www.google.com/fonts/">Google fonts</a> you'd like to be extra fancy, like this Lobster font</p>
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
