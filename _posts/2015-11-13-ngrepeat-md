@@ -30,9 +30,49 @@ Primeramente tenemos que crear nuestro html con las directivas correspondientes 
 Nota: recuerden hacer instancia de AngularJS ya sea por CDN o por un archivo local y de igual forma el archivo en donde declaran el modulo y el controlador:
 
 {% highlight html linenos %}
+<!DOCTYPE html>
+<html lang="es">
+ <head>
 
+   <meta charset="UTF-8" />
+   <title> ng-repeat -> AngularJS </title>
+   <!-- Aquí esta la referencia de ANGULARJS -->
+   <!-- La ubicación puede varia a la de ustedes -->
+   <script src="./vendors/angular.min.js"></script>
+   <!-- Aquí instanciamos el archivo que tendra nuestro modulo y controlador-->
+   <!-- El archivo lo declararemos mas abajo con el nombre de app.js-->
+   <script src="./vendors/js/app.js"></script>
+ </head>
+ <body ng-app="app"><!-- Direcctiva para inicializar una aplicación angular-->
+
+   <div ng-controller="Ctrl1"><!-- Ahora declaramos nuestro controlador -->       
+   </div>
+
+ </body>
+</html>
 {% endhighlight %}
 
+Ahora que ya tenemos nuestro html casi listo crearemos el archivo app.js el cual tendrá el objeto con los datos que mencionamos mas arriba, el modulo y nuestro controlador:
+
+{% highlight javascript linenos %}
+angular.module('app', []) // recuerda poner el nombre del modulo igual al del ng-app del html
+.controller('Ctrl1', ['$scope', function ($scope) {
+    $scope.libros = [
+        {
+            autor: 'Nombre Autor 1',
+            libro:'Nombre del libro 1'
+        },
+        {
+            autor: 'Nombre Autor 2',
+            libro:'Nombre del libro 2'
+        },
+        {
+            autor: 'Nombre Autor 3',
+            libro:'Nombre del libro 3'
+        }
+    ];    
+}])
+{% endhighlight %}
 
 
 
