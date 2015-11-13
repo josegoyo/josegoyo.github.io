@@ -1,0 +1,41 @@
+---
+layout: post
+title: ng-repeat con AngularJs.
+subtitle: Iteraciones con ng-repeat.
+---
+
+ng-repeat nos permite iterar sobre un elemento en múltiples ocasiones, facilitando al recorrido de objetos que contengan una serie de datos que ocupemos mostrar o adquirir alguno de estos.
+
+Suponiendo que tenemos el siguiente objeto y queremos mostrarlo en el navegador: 
+Nota: el ejemplo es muy simple pero no deja de ser interesante.
+
+{% highlight javascript linenos %}
+$scope.libros = [
+	{
+		autor: 'Nombre Autor 1',
+		libro:'Nombre del libro 1'
+	},
+	{
+		autor: 'Nombre Autor 2',
+		libro:'Nombre del libro 2'
+	},
+	{
+		autor: 'Nombre Autor 3',
+		libro:'Nombre del libro 3'
+	}
+];
+{% endhighlight %}
+
+Primeramente tenemos que crear nuestro html con las directivas correspondientes y hacer instancia de un controlador como se muestra en el siguiente ejemplo:
+Nota: recuerden hacer instancia de AngularJS ya sea por CDN o por un archivo local y de igual forma el archivo en donde declaran el modulo y el controlador:
+
+{% highlight html linenos %}
+
+{% endhighlight %}
+
+
+
+
+
+
+
