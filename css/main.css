@@ -39,8 +39,10 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+.contenedor-primario{
+	text-align: center;
+}
 .contenedor{
-	border:thin solid red;
 	width: 100%;
 	padding: 0;
 	margin: 0.5em auto;
