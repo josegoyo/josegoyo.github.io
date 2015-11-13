@@ -71,24 +71,24 @@ Así quedaría el código completo del lado del html ya que el php queda como se
    	<title> Acción onclick en js </title>
    	// Aquí esta la referencia a jquery
    	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-   	<script>
-	   $(document).on('ready',function(){
+	<script>
+	$(document).on('ready',function(){
 
-		  $('#btn-ingresar').click(function(){
-			var url = "datos_login.php";                                      
+	  $('#btn-ingresar').click(function(){
+		var url = "datos_login.php";                                      
 
-			$.ajax({                        
-			   type: "POST",                 
-			   url: url,                    
-			   data: $("#formulario").serialize(),
-			   success: function(data)            
-			   {
-				 $('#resp').html(data);           
-			   }
-			 });
-		  });
-	   });
-	 </script>
+		$.ajax({                        
+		   type: "POST",                 
+		   url: url,                    
+		   data: $("#formulario").serialize(),
+		   success: function(data)            
+		   {
+			 $('#resp').html(data);           
+		   }
+		 });
+	  });
+	});
+	</script>
   </head>
   <body>
 	<form method="post" id="formulario">
