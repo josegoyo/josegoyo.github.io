@@ -5,7 +5,7 @@ subtitle: Blog Personal
 comments: true
 ---
 
-<div class="main-explain-area jumbotron">
+<div class="main-explain-area jumbotron contenido">
   <p>Blog personal para dar a conocer soluciones a problemas que han surguido a lo largo
   de mi trabajo como desarrollador, además de algunas noticias de tecnologias que se me crucen
   en el camino.</p>
@@ -13,7 +13,7 @@ comments: true
   <p>Aquí abajo encontrarás los posts mas recientes, espero que te sean utiles.</p>
 </div>
 
-<div class="posts-list">
+<div class="posts-list contenido">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -42,7 +42,7 @@ comments: true
 </div>
 
 {% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
+<ul class="pager main-pager contenido">
   {% if paginator.previous_page %}
   <li class="previous">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
