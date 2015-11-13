@@ -79,9 +79,8 @@ img::-moz-selection {
 
 .disqus-comments {
 	margin-top: 30px;
-	widows: 70%;
+	widows: 75%;
 	margin: 0.5em auto;
-	border: thin solid;
 }
 
 @media only screen and (min-width: 768px) {
