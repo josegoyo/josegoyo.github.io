@@ -5,7 +5,7 @@ subtitle: conoceme un poco más...
 ---
 
 Mi nombre es josé gregorio calderon, me gusta el desarrollo de software
-estoy en enfocado mas a la web, me gustaria especializarme en JavaScript.
+enfacado a la web, me gustaria especializarme en JavaScript.
 
 Muchas cosas más..
 
