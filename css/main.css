@@ -39,7 +39,9 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
-
+.contenedor{
+	border:thin solid red;
+}
 .main-content {
 	width: 80%;
 	margin: 0.5em auto;
