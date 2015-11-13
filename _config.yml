@@ -17,7 +17,7 @@ baseurl: ""
 title: J.G.C.
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Blog personal para noticias y chismes.
 
 # --- Navigation bar options --- #
 
@@ -28,7 +28,7 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Inicio: ""
-  Acerco: "aboutme"
+  Acerca: "aboutme"
   Contacto: "contact"
 
 # --- Footer options --- #
