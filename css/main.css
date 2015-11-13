@@ -42,6 +42,8 @@ hr.small {
 .contenedor{
 	border:thin solid red;
 	width: 90%;
+	padding: 0;
+	margin: 0.5em auto;
 }
 .main-content {
 	width: 80%;
