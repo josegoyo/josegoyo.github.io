@@ -1,50 +1,144 @@
-# Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+# --- Serving options --- #
 
-# Build settings
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+url: "http://username.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: My website
+
+# Short description of your site
+description: A virtual proof that name is awesome!
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About Me: "aboutme"
+  Contact: "contact"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Some Person
+  email: "youremail@domain.com"
+  facebook: yourname  # eg. daattali
+  github: yourname    # eg. daattali
+  twitter: yourname   # eg. daattali
+  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: yourlink  # eg. "users/3943160/daattali"
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: true
+  email: true
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Vancouver"
 markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
+highlighter: pygments
+permalink: /:year-:month-:day-:title
+paginate: 5
 
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
 
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
 
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
