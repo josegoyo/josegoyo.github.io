@@ -4,6 +4,8 @@ title: Crear componentes HTML dinamicamente con JavaScript.
 subtitle: crear componentes html dinamicamente con javascript puro.
 ---
 
+Hoy por hoy los sitios dinámicos son mas atractivos para el usuario final, es por eso que hoy les traigo un post para crear componentes dinamicamente usando javascript, es muy sencillo ya que solo tiene que agrear unas cuantas lineas de código.
+
 suponiendo que tenemos el siguiente código:
 
 {% highlight html linenos %}
