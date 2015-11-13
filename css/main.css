@@ -87,8 +87,8 @@ img::-moz-selection {
 
 .disqus-comments {
 	margin-top: 30px;
-	width: 150%;
-	padding: 0;
+	width: 145%;
+    margin-left: -13em;
 }
 
 @media only screen and (min-width: 768px) {
