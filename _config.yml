@@ -12,7 +12,7 @@ description: > # Blog personal para informar soluciones de problemas
 que se han ido presentando a lo largo de mi profesión como desarrollador,
 además de noticias del mundo de la tecnología que se me cruzen en el camino.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: JoseGregoCal
 github_username:  josegoyo
 
