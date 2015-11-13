@@ -11,23 +11,22 @@ NOTA: es muy importante que tengan JQuery referenciado ya sea por CDN o en archi
 {% highlight html linenos %}
 <!DOCTYPE html>
 <html lang="es">
-	<head>
-		<meta charset="UTF-8" />
-   		<title> Acción onclick en js </title>
-   		// Aquí esta la referencia a jquery
-   		<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
- 	</head>
-
- 	<body>
-   		<form method="post" id="formulario">
-	  		<input type="text" name="usuario" placeholder="Usuario" autofocus/>
-	  		<input type="password" name="contrasena" placeholder="Contraseña"/>
-	  		<input type="button" id="btn-ingresar" value="Ingresar" />
-   		</form>
-   		// Este div nos servirá para cachar la respuesta enviada 
-   		// por el backend en caso de que sea necesario.
-   		<div id="resp"></div>
- 	</body>
+  <head>
+	<meta charset="UTF-8" />
+   	<title> Acción onclick en js </title>
+   	// Aquí esta la referencia a jquery
+   	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+  </head>
+  <body>
+	<form method="post" id="formulario">
+		<input type="text" name="usuario" placeholder="Usuario" autofocus/>
+		<input type="password" name="contrasena" placeholder="Contraseña"/>
+		<input type="button" id="btn-ingresar" value="Ingresar" />
+	</form>
+	// Este div nos servirá para cachar la respuesta enviada 
+	// por el backend en caso de que sea necesario.
+	<div id="resp"></div>
+  </body>
 </html>
 {% endhighlight %}
 
