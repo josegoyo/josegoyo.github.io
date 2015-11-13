@@ -4,7 +4,6 @@ title: Acerca
 subtitle: conoceme un poco más...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 Mi nombre es josé gregorio calderon, me gusta el desarrollo de software
 estoy en enfocado mas a la web, me gustaria especializarme en JavaScript.
 
