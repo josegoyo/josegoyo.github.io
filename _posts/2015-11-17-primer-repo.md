@@ -27,6 +27,6 @@ privado tienes que pagar una couta), tal y como se muestra en la siguiente image
 
 Ahora que ya creamos nuestro proyecto nos mostrará una pantalla como la siguiente.
 
-![alt text](../img/GitProyect/3repoCreado.png)
+![alt text](../img/GitProject/3repoCreado.png)
 
 
