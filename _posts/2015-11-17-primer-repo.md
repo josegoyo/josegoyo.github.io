@@ -14,13 +14,15 @@ En este ejemplo subiremos el proyecto a un repositorio de GitHub que nos permiti
 con todos.
 
 Lo primero que tenemos que hacer es instalar [Git](https://git-scm.com/downloads), después tenemos que crear
-una cuenta [GitHub](https://github.com) una vez que tengamos nuestra cuenta iniciaremos sesion para crear 
+una cuenta en [GitHub](https://github.com) una vez que tengamos nuestra cuenta iniciaremos sesion para crear 
 nuestro nuevo repositorio como lo muestra la siguente imagen.
 
 ![alt text](../img/GitProject/newrepo.png)
 
-una vez que selecciones la opcion para crear un nuevo repositorio nos nos pedira un nombre para el reposotorio
-y una descripción para la misma, tal y como se muestra en la siguiente imagen, una vez que tengamos los datos
-definidos le damos al boton "Crear repositorio".
+Una vez que selecciones la opcion para crear un nuevo repositorio nos pedirá un nombre para el repositorio
+y una descripción para la misma tambien si queremos ponerlo publico o privado (para poner tu repositorio
+privado tienes que pagar una couta), tal y como se muestra en la siguiente imagen, una vez que tengamos los datos definidos le damos al boton "Crear repositorio".
 
 ![alt text](../img/GitProject/namerep.png)
+
+
