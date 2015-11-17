@@ -32,7 +32,7 @@ ponemos a leer un poco un ahí mismo nos dice como subir el proyecto a nuestro r
 
 Ahora veremos la estructura de nuestro proyecto que esta de la sigueinte manera:
 
-{% highlight marckdown linenos %}
+{% highlight javascript linenos %}
 MiProyecto/
 |
 +-- js
@@ -47,7 +47,7 @@ MiProyecto/
 Ahora abriremos nuestra consola de Git y nos dirigiremos a la carpeta de nuestro proyecto (el que vamos a subir)
 e iniciaremos nuestro git con el siguiente comando 
 
-{% highlight git linenos %}
+{% highlight javascript linenos %}
 git init
 {% endhighlight %}
 
