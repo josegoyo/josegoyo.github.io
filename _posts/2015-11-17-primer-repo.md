@@ -25,8 +25,30 @@ privado tienes que pagar una couta), tal y como se muestra en la siguiente image
 
 ![alt text](../img/GitProject/namerep.png)
 
-Ahora que ya creamos nuestro proyecto nos mostrará una pantalla como la siguiente.
+Ahora que ya creamos nuestro proyecto nos mostrará una pantalla como lo muestra la siguiente imagen, si nos
+ponemos a leer un poco un ahí mismo nos dice como subir el proyecto a nuestro repositorio creado.
 
 ![alt text](../img/GitProject/3repoCreado.png)
+
+Ahora veremos la estructura de nuetro proyecto que esta mas de la sigueinte manera:
+
+MiProyecto/
++-- js
+|	+-- scritp.js
++-- css
+|	+-- index.css
++-- img
+|	+-- js-logo.png
++-- index.html
+
+
+
+
+
+
+
+
+
+
 
 
