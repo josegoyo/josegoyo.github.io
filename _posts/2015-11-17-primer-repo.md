@@ -18,3 +18,9 @@ una cuenta [GitHub](https://github.com) una vez que tengamos nuestra cuenta inic
 nuestro nuevo repositorio como lo muestra la siguente imagen.
 
 ![alt text](../img/GitProject/newrepo.png)
+
+una vez que selecciones la opcion para crear un nuevo repositorio nos nos pedira un nombre para el reposotorio
+y una descripción para la misma, tal y como se muestra en la siguiente imagen, una vez que tengamos los datos
+definidos le damos al boton "Crear repositorio".
+
+![alt text](../img/GitProject/namerep.png)
