@@ -13,6 +13,8 @@ trabajar en conjunto subiendo o bajando versiones del proyecto master.
 En este ejemplo subiremos el proyecto a un repositorio de GitHub que nos permitira compartir nuestro proyecto
 con todos.
 
-lo primero que tenemos que hacer es instalar [Git](https://git-scm.com/downloads), después tenemos que crear
+Lo primero que tenemos que hacer es instalar [Git](https://git-scm.com/downloads), después tenemos que crear
 una cuenta [GitHub](https://github.com) una vez que tengamos nuestra cuenta iniciaremos sesion para crear 
-nuestro nuevo reposotorio.
+nuestro nuevo repositorio como lo muestra la siguente imagen.
+
+![alt text](../img/GitProject/newrepo.png)
