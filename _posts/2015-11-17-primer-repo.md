@@ -55,8 +55,17 @@ La consola nos mostrara algo como lo siguiente.
 
 ![alt text](../img/GitProject/4init.png)
 
+Ahora agregaremos todos los archivo de nuestro proyecto con el siguiente comando, hay otras opciones con el comando
+git add lo pueden leer checando la documentacíon oficial de [git add](https://git-scm.com/docs/git-add) pero
+como nosotros subiremos todos los archivos usaremos el siguiente.
 
+{% highlight javascript linenos %}
+git add .
+{% endhighlight %}
 
+En la consola no mostrara nada al darle enter solo saltará de linea esperando otra entrada en la consola.
+
+![alt text](../img/GitProject/5add.png)
 
 
 
