@@ -63,9 +63,10 @@ hr.small {
   }
 }
 
-.main-explain-area {
+.main-explain-area { /* --------------------------------------------------------- */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 5px;
+
 }
 
 .hideme {
