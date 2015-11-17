@@ -39,7 +39,9 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
-
+#img-cont{
+	text-align: center;
+}
 #img-down{
 	margin: 0.5em auto;
 }
