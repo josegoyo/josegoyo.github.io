@@ -63,7 +63,7 @@ como nosotros subiremos todos los archivos usaremos el siguiente.
 git add .
 {% endhighlight %}
 
-En la consola no mostrara nada al darle enter solo saltará de linea esperando otra entrada en la consola.
+En la consola no mostrara nada al darle enter solo saltará de linea esperando otra entrada.
 
 ![alt text](../img/GitProject/5add.png)
 
