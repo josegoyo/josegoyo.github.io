@@ -110,10 +110,10 @@ git config --global user.name "tuUsuario"
 git config --global user.email tuCorreo@example.com
 {% endhighlight %}
 
+Una vez que subamos nuestro proyecto nos vamos a nuestro repositorio actualizamos la pantalla y veremos nuestro 
+archivos como se muestra en la siguiente imagen.
 
+![alt text](../img/GitProject/8docs.png)
 
-
-
-
-
+Y listo ya tenemos nuestro proyecto en el repositorio.
 
