@@ -103,7 +103,12 @@ llamado "master", como lo muestra la siguiente imagen.
 
 ![alt text](../img/GitProject/7push.png)
 
-> 
+> En caso de que les tire un error por configuracion de username e email, la configuración se hace con los siguientes comandos.
+
+{%highlight javascript linenos%}
+git config --global user.name "tuUsuario"
+git config --global user.email tuCorreo@example.com
+{% endhighlight %}
 
 
 
