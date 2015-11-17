@@ -78,6 +78,19 @@ En la consola nos mostrara algo como lo siguiente, en donde nos mostrará los ar
 
 ![alt text](../img/GitProject/5commit.png)
 
+Ahora nos dirigiremos a la pantalla que nos mostro GitHub al crear el repositorio, donde copiaremos la direccion 
+https para nuestro siguiente comando, en donde agregaremos un remote a nuestro repositorio, eso con el siguiente
+comando.
+
+{% highlight javascript linenos %}
+git remote add origin https://github.com/josegoyo/MiRepositorio.git
+{% endhighlight %}
+
+> Recuerden que la direccion https va ser diferente al que se muestra en el ejemplo.
+
+en la consola no nos mostrará nada solo saltará de linea esperando una nueva entrada como se muestra en la imagen.
+
+![alt text](../img/GitProject/6https.png)
 
 
 
