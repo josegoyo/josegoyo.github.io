@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi primer proyecto en GitHub.
+title: Primer proyecto en GitHub.
 subtitle: Subir mi proyecto a un reposotorio de GitHub con Git.
 ---
 
