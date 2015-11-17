@@ -44,6 +44,17 @@ MiProyecto/
 +-- index.html
 {% endhighlight %}
 
+Ahora abriremos nuestra consola de Git y nos dirigiremos a la carpeta de nuestro proyecto (el que vamos a subir)
+e iniciaremos nuestro git con el siguiente comando 
+
+{% highlight git linenos %}
+git init
+{% endhighlight %}
+
+La consola nos mostrara algo como lo siguiente.
+
+![alt text](../img/project/4init.png)
+
 
 
 
