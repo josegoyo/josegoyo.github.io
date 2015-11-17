@@ -67,8 +67,8 @@ En la consola no mostrara nada al darle enter solo saltará de linea esperando o
 
 ![alt text](../img/GitProject/5add.png)
 
-Pasaremos a realizar nuestro primer commit con el siguiente comando, de igual manera si quieren checar mas documentacion
-del comando [git commit](https://git-scm.com/docs/git-commit) pueden checar la doc oficial.
+Pasaremos a realizar nuestro primer commit con el siguiente comando, de igual manera si quieren checar mas documentación
+del comando [git commit](https://git-scm.com/docs/git-commit) pueden checar la pagina oficial.
 
 {% highlight javascript linenos %}
 git commit -m "Mi primero commit, subiendo el proyecto"
