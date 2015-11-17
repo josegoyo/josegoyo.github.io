@@ -56,7 +56,7 @@ La consola nos mostrara algo como lo siguiente.
 ![alt text](../img/GitProject/4init.png)
 
 Ahora agregaremos todos los archivo de nuestro proyecto con el siguiente comando, hay otras opciones con el comando
-git add lo pueden leer checando la documentacíon oficial de [git add](https://git-scm.com/docs/git-add) pero
+git add lo pueden leer checando la documentación oficial de [git add](https://git-scm.com/docs/git-add) pero
 como nosotros subiremos todos los archivos usaremos el siguiente.
 
 {% highlight javascript linenos %}
@@ -103,7 +103,7 @@ llamado "master", como lo muestra la siguiente imagen.
 
 ![alt text](../img/GitProject/7push.png)
 
-> En caso de que les tire un error por configuracion de username e email, la configuración se hace con los siguientes comandos.
+> En caso de que les tire un error por configuracion de username y email, la configuración se hace con los siguientes comandos.
 
 {%highlight javascript linenos%}
 git config --global user.name "tuUsuario"
