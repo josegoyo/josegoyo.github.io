@@ -34,7 +34,6 @@ Ahora veremos la estructura de nuestro proyecto que esta de la sigueinte manera:
 
 {% highlight marckdown linenos %}
 MiProyecto/
-.
 |
 +-- js
 |	+-- scritp.js
