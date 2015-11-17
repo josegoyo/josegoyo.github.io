@@ -30,7 +30,7 @@ ponemos a leer un poco un ahí mismo nos dice como subir el proyecto a nuestro r
 
 ![alt text](../img/GitProject/3repoCreado.png)
 
-Ahora veremos la estructura de nuetro proyecto que esta mas de la sigueinte manera:
+Ahora veremos la estructura de nuestro proyecto que esta de la sigueinte manera:
 
 MiProyecto/
 +-- js
