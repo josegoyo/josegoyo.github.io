@@ -32,6 +32,7 @@ ponemos a leer un poco un ahí mismo nos dice como subir el proyecto a nuestro r
 
 Ahora veremos la estructura de nuestro proyecto que esta de la sigueinte manera:
 
+{% highlight html linenos %}
 MiProyecto/
 .
 |
@@ -42,6 +43,8 @@ MiProyecto/
 +-- img
 |	+-- js-logo.png
 +-- index.html
+{% endhighlight %}
+
 
 
 
