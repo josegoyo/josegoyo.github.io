@@ -67,6 +67,17 @@ En la consola no mostrara nada al darle enter solo saltará de linea esperando o
 
 ![alt text](../img/GitProject/5add.png)
 
+Pasaremos a realizar nuestro primer commit con el siguiente comando, de igual manera si quieren checar mas documentacion
+del comando [git commit](https://git-scm.com/docs/git-commit) pueden checar la doc oficial.
+
+{% highlight javascript linenos %}
+git commit -m "Mi primero commit, subiendo el proyecto"
+{% endhighlight %}
+
+En la consola nos mostrara algo como lo siguiente, en donde nos mostrará los archivos de nuestro proyecto.
+
+![alt text](../img/GitProject/5commit.png)
+
 
 
 
