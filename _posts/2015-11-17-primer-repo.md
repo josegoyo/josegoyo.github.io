@@ -53,7 +53,7 @@ git init
 
 La consola nos mostrara algo como lo siguiente.
 
-![alt text](../img/project/4init.png)
+![alt text](../img/GitProject/4init.png)
 
 
 
