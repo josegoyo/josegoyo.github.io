@@ -88,10 +88,20 @@ git remote add origin https://github.com/josegoyo/MiRepositorio.git
 
 > Recuerden que la direccion https va ser diferente al que se muestra en el ejemplo.
 
-en la consola no nos mostrará nada solo saltará de linea esperando una nueva entrada como se muestra en la imagen.
+En la consola no nos mostrará nada solo saltará de linea esperando una nueva entrada como se muestra en la imagen.
 
 ![alt text](../img/GitProject/6https.png)
 
+Ahora solo queda hacer nuestro push para que el proyecto se vaya para el repositorio, esto con el siguiente comando.
+
+{% highlight javascript linenos %}
+git push -u origin master
+{% endhighlight %}
+
+nos mostrará algo como lo siguiente, en donde nos informa que ya se agrego el proyecto y se a creado un branch
+llamado "master", como lo muestra la siguiente imagen.
+
+![alt text](../img/GitProject/7push.png)
 
 
 
