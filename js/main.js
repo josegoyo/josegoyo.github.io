@@ -17,4 +17,7 @@ $('#main-navbar').on('hidden.bs.collapse', function () {
   $(".navbar").removeClass("top-nav-expanded");
 })
 
+$(function(){
+	console.log("Jquery ha llegado!!");
+});
 // 2fc73a3a967e97599c9763d05e564189
