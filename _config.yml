@@ -28,8 +28,7 @@ avatar: "/img/Code.png"
 # List of links in the navigation bar, solo colocar nombre de archivos en los ""
 navbar-links:
   Inicio: ""
-  Acerca: ""
-  Contacto: ""
+
 
 # --- Footer options --- #
 
