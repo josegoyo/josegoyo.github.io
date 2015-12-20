@@ -4,10 +4,9 @@ title: Acerca
 subtitle: conoceme un poco más...
 ---
 
-Mi nombre es josé gregorio calderon, me gusta el desarrollo de software
-enfacado a la web, me gustaria especializarme en JavaScript.
+Mi nombre es josé Gregorio Calderón. Soy desarrollador web en Internet Power.
 
-Muchas cosas más..
+
 
 What else do you need?
 
