@@ -239,7 +239,9 @@ footer .theme-by {
 	border: thin solid blue;
 	width: 100%;
 }
-
+.contend-div{
+	border: thin solid red;
+}
 /* --- Post preview --- */
 
 .post-preview {
