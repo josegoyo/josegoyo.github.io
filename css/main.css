@@ -234,6 +234,10 @@ footer .theme-by {
     font-size: 16px;
   }
 }
+/* --- posts-list --- */
+.posts-list{
+	border: thin solid blue;
+}
 
 /* --- Post preview --- */
 
