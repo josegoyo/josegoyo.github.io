@@ -28,10 +28,10 @@ $http({
 
 si quieren saber más sobre el servicio aquí les dejo el link de la [pagina oficial](https://restcountries.eu/). 
 
-Lo que nos devolera será un json super grande en donde contredra varios datos de cada uno de los paises del mundo.
+Lo que nos devolera será un json super grande en donde contredrá varios datos de cada uno de los paises del mundo.
 
-![alt text](../img/GitProject/jsonCountries.png)
+![alt text](../img/jsonCountries.png)
 
-Una vez hecha la peticion es cueston de parsearla para sacar los datos necesarios o los que mas les sirvan. Espero que les sirva de algo, saludos.
+Una vez hecha la peticion es cuestion de parsearla para sacar los datos necesarios o los que más les sirvan. Espero que les sirva de algo, saludos.
 
 
