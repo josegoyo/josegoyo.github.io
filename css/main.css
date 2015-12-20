@@ -240,7 +240,7 @@ footer .theme-by {
 }
 .contend-div{
 	border: thin solid red;
-	width: 100%;
+	width: 100% !important;
 }
 /* --- Post preview --- */
 
