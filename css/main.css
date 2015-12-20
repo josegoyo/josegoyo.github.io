@@ -237,6 +237,7 @@ footer .theme-by {
 /* --- posts-list --- */
 .posts-list{
 	border: thin solid blue;
+	width: 100%;
 }
 
 /* --- Post preview --- */
