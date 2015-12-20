@@ -9,11 +9,13 @@ comments: true
   <p>Developer, Geek y Apasionado de las tecnologías libres.</p>
   <p>Post más recientes.</p>
   <div id="img-cont">
-  	<img src="img/down.png" alt="down" id="img-down">
+  	<a href="#info" id="rediccion_info" class="ancla">
+  		<img src="img/down.png" alt="down" id="img-down">
+  	</a>
   </div>
 </div>
 
-<div class="posts-list">
+<div class="posts-list" id="info">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

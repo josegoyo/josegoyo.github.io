@@ -18,6 +18,20 @@ $('#main-navbar').on('hidden.bs.collapse', function () {
 })
 
 $(function(){
-	console.log("Jquery ha llegado!!");
+
+	 $('a.ancla').click(function(e){
+        e.preventDefault();
+        enlace  = $(this).attr('href');
+        $('html, body').animate({
+            scrollTop: $(enlace).offset().top
+        }, 1000);
+    });
+    $('a.arriba').click(function(e){
+        e.preventDefault();
+        volver  = $(this).attr('href');
+        $('html, body').animate({
+            scrollTop: $(volver).offset().top
+        }, 1000);
+    });
 });
 // 2fc73a3a967e97599c9763d05e564189
