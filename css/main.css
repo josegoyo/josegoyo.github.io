@@ -242,6 +242,11 @@ footer .theme-by {
 	width: 100% !important;
 	margin: 0 !important;
 }
+
+.row{
+	margin: 0.5em auto;
+	width: 70%;
+}
 /* --- Post preview --- */
 
 .post-preview {
