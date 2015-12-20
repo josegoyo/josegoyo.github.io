@@ -241,6 +241,7 @@ footer .theme-by {
   	padding: 20px 0;
   	border-bottom: 1px solid #eee;
 	border: thin solid;
+	width: 100%;
 }
 
 @media only screen and (min-width: 768px) {
