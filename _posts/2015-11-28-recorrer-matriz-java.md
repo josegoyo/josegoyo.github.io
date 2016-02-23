@@ -10,7 +10,6 @@ Acá abajo pondre el codigo con algunos comentarios para su explicación.
 
 {% highlight java linenos %}
 public class Main {
-
 	  public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -25,7 +24,6 @@ public class Main {
 		// Este ciclo anidado nos funciona
 		// para agregarle valores a la matriz.
 		for (int x = 0; x < numeros.length;x++) {
-
 			for (int y = 0; y < numeros[x].length; y++) {
 				 n++;
 				 numeros[x][y] = n;
@@ -35,9 +33,7 @@ public class Main {
 		// Este ciclo anidado nos permite pintar
 		// la matriz en consola.
 		for (int x = 0; x < numeros.length;x++) {
-
 			for (int y = 0; y < numeros[x].length; y++) {
-
 				 System.out.print("["+numeros[x][y]+"]");
 			}
 			System.out.println("\n");
