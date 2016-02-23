@@ -5,16 +5,16 @@
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 url: "http://josegoyo.github.io"
-#baseurl: ""
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "https://github.com/josegoyo/josegoyo.github.io"
-#baseurl: "/projectname"
+# url: "https://github.com/josegoyo/josegoyo.github.io"
+# baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-#title: "ddd"
+# title: "ddd"
 
 # Short description of your site
 description: Blog.
