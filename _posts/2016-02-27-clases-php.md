@@ -8,7 +8,7 @@ La programación orientada a objetos es una de las mejores técnicas, hoy en dí
 
 Primeramente crearemos la clase Carro, por lo tanto un archivo llamado Carro.php, que tendrá una serie de funciones que solo tendrán un echo dentro de ellas haciendo señal de lo que sucedería cuando la función de mande llamar.
 
-{% highlight php linenos %}
+{% highlight javascript linenos %}
 class Carro{
 
    function prenderCarro(){
@@ -33,7 +33,7 @@ class Carro{
 
 Ahora cremos otro archivo al cual le llamaremos Principal.php, lo colocaremos dentro de la misma carpeta donde tendremos nuestro archivo Carro.php, en el archivo Principal.php mandaremos llamar el archivo Carro.php para poder hacer unos de la clase que escribimos dentro de ella.
 
-{% highlight php linenos %}
+{% highlight javascript linenos %}
 include "carro.php";//incluimos el archivo carro para hacer uso de ella
 
 $carro = new Carro();//creamos nuestro objeto carro.
