@@ -6,7 +6,7 @@ subtitle: como utilizar prompt y confirm en js.
 
 Ademas de la ya muy conocida función alert que tiene JavaScrip para la interacción con el usuario también cuenta con otras muy interesantes de las cuales hablaremos y veremos su sintaxis.
 
-###Confim.
+### Confim.
 
 Esta función permite preguntarle al usuario si desea realizar alguna acción en donde la respuesta es ACEPTAR o CANCELAR, esta función regresa como resultado un boleano (boolean), es decir, si el usuario hizo clic en ACEPTAR la función regresa un true, de lo contrario, si el usuario hace clic en CANCELAR la función regresa un false.
 
@@ -17,7 +17,7 @@ var theConfirm = confirm("Exit?");
 console.log(theConfirm);
 {% endhighlight %}
 
-###Prompt.
+### Prompt.
 
 Esta función puede ser usado para hacer una pregunta abierta, el primer argumento que le mandaremos es la pregunta que deseamos realizar, El segundo argumento es un texto que aparecerá al ejecutarse la función pero esta se sobreescribira con la respuesta del usuario, esta función nos regresa una cadena de texto (string).
 
