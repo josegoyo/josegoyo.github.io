@@ -29,6 +29,7 @@ description: Blog personal.
 navbar-links:
   Inicio: ""
   Acerca: "aboutme"
+  Contacto: "contact"
 
 
 # --- Footer options --- #
