@@ -28,7 +28,7 @@ description: Blog personal.
 # List of links in the navigation bar, solo colocar nombre de archivos en los ""
 navbar-links:
   Inicio: ""
-  Acerca: "aboutme"
+  Acerca: "templates/aboutme"
   Contacto: "contact"
 
 
