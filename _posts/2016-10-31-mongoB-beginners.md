@@ -4,7 +4,7 @@ title: Mongo Beginners.
 subtitle: Comandos básicos para principiantes en mongoBD.
 ---
 
-* > > comando de entrada
+* '>' comando de entrada
 * R: respuesta una vez puesto el comando (las respuestas pueden variar dependiendo los datos en tu colección).
 
 {% highlight javascript linenos %}
