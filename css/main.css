@@ -72,6 +72,7 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 5px;
   text-align: center;
+	border: thin solid;
 }
 
 .hideme {
