@@ -16,7 +16,7 @@ Lenguajes principales:
 
 Frameworks: 
 
-`codeigniter` `nodejs` `laravel` `bootstrap` `materializecss`
+`codeigniter` `angularjs` `nodejs` `laravel` `bootstrap` `materializecss`
 
 Medias:
 
