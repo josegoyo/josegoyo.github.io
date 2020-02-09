@@ -3,20 +3,17 @@ layout: page
 title: Acerca
 ---
 
-Mi nombre es josé Gregorio Calderón.
-
-Soy desarrollador web, actualmente trabajo en la empresa Sayse como encargado del departamento de desarrollo de sofware.
+Mi nombre es josé Gregorio Calderón, Soy desarrollador web.
 
 Así como cofunder de una pequeña startup dedicada al desarrollo de software a la medida, aquí mi función principal es el análisis y diseño de las arquitecturas de los diferentes proyectos.
 
 Lenguajes principales:
 
-
 `php` `javascript` `java`
 
 Frameworks: 
 
-`codeigniter` `angularjs` `nodejs` `laravel` `bootstrap` `materializecss`
+`reactjs` `nodejs` `codeigniter` `angularjs` `bootstrap` `materializecss`
 
 Medias:
 
