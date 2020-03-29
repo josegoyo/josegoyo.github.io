@@ -8,7 +8,7 @@ Hoy por hoy los sitios dinámicos son mas atractivos para el usuario final, es p
 
 suponiendo que tenemos el siguiente código:
 
-{% highlight html linenos %}
+```html
 <!DOCTYPE html>
 <html lang="es">
  <head>
@@ -26,7 +26,7 @@ suponiendo que tenemos el siguiente código:
    <input type="button" id="btn_agregar" value="+">
  </body>
 </html>
-{% endhighlight %}
+```
 
 y lo que queremos es agregar un elemento input de tipo text cada vez que presionemos el botón + entonces, primeramente creamos una función que sera el que se encargue de agregar los datos al componente padre que sera el div con el id "padre" colocado en el código de arriba, la función quedaría algo como esto:
 
