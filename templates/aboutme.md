@@ -16,6 +16,7 @@ css: "../css/about.css"
                 </div>
                 <div class="col-md-6">
                     <div class="feature">
+                        <h2 class="aboutus-title">Experiencia</h2>
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
