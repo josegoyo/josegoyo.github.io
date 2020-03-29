@@ -15,8 +15,3 @@ Frameworks:
 
 `reactjs` `nodejs` `codeigniter` `angularjs` `bootstrap` `materializecss`
 
-Medias:
-
-[Linkedin](https://www.linkedin.com/in/josegregoriocalderon/)
-[Stackoverflow](https://es.stackoverflow.com/users/1839/goyo?tab=profile)
-[@josegregocal](https://twitter.com/JoseGregoCal)
