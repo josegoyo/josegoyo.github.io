@@ -1,5 +1,5 @@
 .aboutus-section {
-    padding: 90px 0;
+    padding: 70px 0;
 }
 .aboutus-title {
     font-size: 30px;
@@ -8,7 +8,6 @@
     margin: 0 0 39px;
     padding: 0 0 11px;
     position: relative;
-    text-transform: uppercase;
     color: #000;
 }
 .aboutus-title::after {

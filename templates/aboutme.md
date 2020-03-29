@@ -3,7 +3,7 @@ layout: page
 title: Acerca
 css: "../css/about.css"
 ---
-
+<hr/>
 <div class="aboutus-section">
         <div class="">
             <div class="">
