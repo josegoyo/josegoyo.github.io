@@ -33,7 +33,7 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <i class="fas fa-laptop-code fa-2x"></i>
+                                    <span class="glyphicon icon"><i class="fab fa-php fa-lg"></i></span>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador Web</h4>
@@ -44,7 +44,7 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <i class="fas fa-laptop-code fa-2x"></i>
+                                    <span class="glyphicon icon"><i class="fab fa-angular fa-lg"></i></span>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador Web</h4>
