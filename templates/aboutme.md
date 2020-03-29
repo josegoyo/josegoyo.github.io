@@ -9,14 +9,32 @@ css: "../css/about.css"
             <div class="">
                 <div class="col-md-6">
                     <div class="aboutus">
-                        <h2 class="aboutus-title">José Gregorio Calderón</h2>
+                        <h3 class="aboutus-title">José Gregorio Calderón</h3>
                         <p class="aboutus-text">Desarrollador de software apasionado en mi trabajo, actualmente trabajo en Innversa Solutions una startup encargada de desarrollar proyectos a la medida para grandes y pequeñas empresas.</p>
                         <p class="aboutus-text">Mi desempeño además de codificar es el de llevar la administración y seguimiento de todo el ciclo del desarrollo de los proyectos. Administración del versionamiento de códigos y la administración y configuración de servidores. </p>
+                    </div>
+                    <div class="aboutus">
+                        <h3 class="aboutus-title">Habilidades</h3>
+                        <p class="aboutus-text">
+                            -Lenguajes: Javascrip, HTML/CSS, PHP.<br/>
+                            -Frameworks: Angularjs, Angular 4, Codeigniter.<br/>
+                            -Lado del Servidor: Nodejs, Express.<br/>
+                            -Librerías: Reactjs, Jquery, Bootstrap.<br/> 
+                            -DB: Mysql, MongoDB.<br/>
+                            -Control de Versiones: GIT	</p>
+                    </div>
+                    <div class="aboutus">
+                        <h3 class="aboutus-title">Certificaciones</h3>
+                        <p class="aboutus-text">
+                            -Latinux Certification CLA (Latinux Inc)<br/>
+                            -AngularJS (Udemy)<br/>
+                            -Latinux Certification CLO (Latinux Inc)<br/>
+                            -Interactivity with JavaScript (Coursera)</p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="feature">
-                        <h2 class="aboutus-title">Experiencia</h2>
+                        <h3 class="aboutus-title">Experiencia</h3>
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
