@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca
-css: "/css/about.css"
+css: "../css/about.css"
 ---
 
 <div class="aboutus-section">
