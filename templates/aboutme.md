@@ -19,7 +19,7 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <span class="glyphicon icon"><i class="fab fa-node-js fa-2x"></i></span>
+                                    <span class="glyphicon icon"><i class="fab fa-node-js fa-lg"></i></span>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador de Software</h4>
