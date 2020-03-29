@@ -9,12 +9,12 @@ css: "../css/about.css"
             <div class="">
                 <div class="col-md-6">
                     <div class="aboutus">
-                        <h3 class="aboutus-title"><i class="fas fa-user-ninja fa-lg ml-icon"></i>José Gregorio Calderón</h3>
+                        <h3 class="aboutus-title"><i class="fas fa-user-ninja"></i>José Gregorio Calderón</h3>
                         <p class="aboutus-text">Desarrollador de software apasionado en mi trabajo, actualmente trabajo en Innversa Solutions una startup encargada de desarrollar proyectos a la medida para grandes y pequeñas empresas.</p>
                         <p class="aboutus-text">Mi desempeño además de codificar es el de llevar la administración y seguimiento de todo el ciclo del desarrollo de los proyectos. Administración del versionamiento de códigos y la administración y configuración de servidores. </p>
                     </div>
                     <div class="aboutus">
-                        <h3 class="aboutus-title"><i class="fas fa-code ml-icon"></i> Habilidades</h3>
+                        <h3 class="aboutus-title"><i class="fas fa-code"></i> Habilidades</h3>
                         <p class="aboutus-text">
                             -Lenguajes: Javascrip, HTML/CSS, PHP.<br/>
                             -Frameworks: Angularjs, Angular 4, Codeigniter.<br/>
@@ -24,7 +24,7 @@ css: "../css/about.css"
                             -Control de Versiones: GIT	</p>
                     </div>
                     <div class="aboutus">
-                        <h3 class="aboutus-title"><i class="fas fa-medal ml-icon"></i> Certificaciones</h3>
+                        <h3 class="aboutus-title"><i class="fas fa-medal"></i> Certificaciones</h3>
                         <p class="aboutus-text">
                             -Latinux Certification CLA (Latinux Inc)<br/>
                             -AngularJS (Udemy)<br/>
@@ -34,11 +34,11 @@ css: "../css/about.css"
                 </div>
                 <div class="col-md-6">
                     <div class="feature">
-                        <h3 class="aboutus-title"><i class="fas fa-laptop-code fa-lg ml-icon"></i>Experiencia</h3>
+                        <h3 class="aboutus-title"><i class="fas fa-laptop-code"></i>Experiencia</h3>
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <span class="glyphicon icon"><i class="fab fa-node-js fa-lg"></i></span>
+                                    <span class="glyphicon icon"><i class="fab fa-node-js"></i></span>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador de Software</h4>
@@ -54,7 +54,7 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <span class="glyphicon icon"><i class="fab fa-php fa-lg"></i></span>
+                                    <span class="glyphicon icon"><i class="fab fa-php"></i></span>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador Web</h4>
@@ -67,7 +67,7 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <span class="glyphicon icon"><i class="fab fa-angular fa-lg"></i></span>
+                                    <span class="glyphicon icon"><i class="fab fa-angular"></i></span>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador Web</h4>
