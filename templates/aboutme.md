@@ -9,7 +9,7 @@ css: "../css/about.css"
             <div class="">
                 <div class="col-md-6">
                     <div class="aboutus">
-                        <h3 class="aboutus-title"><i class="fas fa-user-ninja"></i>José Gregorio Calderón</h3>
+                        <h3 class="aboutus-title"><i class="fas fa-user-ninja mr-icon"></i>José Gregorio Calderón</h3>
                         <p class="aboutus-text">Desarrollador de software apasionado en mi trabajo, actualmente trabajo en Innversa Solutions una startup encargada de desarrollar proyectos a la medida para grandes y pequeñas empresas.</p>
                         <p class="aboutus-text">Mi desempeño además de codificar es el de llevar la administración y seguimiento de todo el ciclo del desarrollo de los proyectos. Administración del versionamiento de códigos y la administración y configuración de servidores. </p>
                     </div>
@@ -34,7 +34,7 @@ css: "../css/about.css"
                 </div>
                 <div class="col-md-6">
                     <div class="feature">
-                        <h3 class="aboutus-title"><i class="fas fa-laptop-code"></i>Experiencia</h3>
+                        <h3 class="aboutus-title"><i class="fas fa-laptop-code mr-icon"></i>Experiencia</h3>
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">

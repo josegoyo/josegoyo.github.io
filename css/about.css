@@ -87,6 +87,9 @@ a:hover, a:active {
 .date-exp{
     margin-top: -8px;
 }
+.mr-icon{
+    margin-right: 7px;
+}
 .icon {
     color : #f4b841;
     padding:0px;
