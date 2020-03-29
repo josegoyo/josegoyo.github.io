@@ -22,7 +22,8 @@ css: "../css/about.css"
                                     <span class="glyphicon icon"><i class="fab fa-node-js fa-lg"></i></span>
                                 </div>
                                 <div class="feature-content">
-                                    <h4>Desarrollador de Software</h4>
+                                    <h4>Innversa Solutions</h4>
+                                    <h5>Desarrollador de Software</h5>
                                     <p> -Desarrollador Frontend & Backend con Javascript (NodeJS y ReactJS).<br/>
                                         -Administrador de recursos en la nube (AWS), especificamente EC2, S3 y RDS.<br/>
                                         -Encargado de administrar las configuraciones de servidores Linux con (NGINX Y APACHE).<br/>
