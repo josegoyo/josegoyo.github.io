@@ -52,7 +52,7 @@ En desarrollo...
             <div class="thumbnail">
                 <img src="https://bloggoyo.s3-us-west-2.amazonaws.com/2d2d2d.png" alt="...">
                 <div class="caption">
-                    <h3>Proyecto 4</h3>
+                    <h3>Proyecto 5</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                     <p><a href="#" class="btn btn-primary" role="button"><i class="fas fa-binoculars"></i></a></p>
                 </div>
@@ -62,7 +62,7 @@ En desarrollo...
             <div class="thumbnail">
                 <img src="https://bloggoyo.s3-us-west-2.amazonaws.com/2d2d2d.png" alt="...">
                 <div class="caption">
-                    <h3>Proyecto 4</h3>
+                    <h3>Proyecto 6</h3>
                     <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                     <p><a href="#" class="btn btn-primary" role="button"><i class="fas fa-binoculars"></i></a></p>
                 </div>
