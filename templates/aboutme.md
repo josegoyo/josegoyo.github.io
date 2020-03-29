@@ -1,43 +1,58 @@
 ---
 layout: page
 title: Acerca
+css: "/css/about.css"
 ---
 
-Mi nombre es josé Gregorio Calderón, Soy desarrollador web.
-
-En una pequeña startup dedicada al desarrollo de software a la medida, aquí mi función principal es el análisis y diseño de las arquitecturas de los diferentes proyectos.
-
-Lenguajes principales:
-
-`php` `javascript` `java`
-
-Frameworks: 
-
-`reactjs` `nodejs` `codeigniter` `angularjs` `bootstrap` `materializecss`
-
-Control de Versiones: 
-
-`git` 
-
-
-### Contacto
-
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <a href="mailto:jgregorio2791@gmail.com">Email</a>
+<div class="aboutus-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="aboutus">
+                        <h2 class="aboutus-title">About Us</h2>
+                        <p class="aboutus-text">Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.</p>
+                        <p class="aboutus-text">This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem</p>
+                        <a class="aboutus-more" href="#">read more</a>
+                    </div>
+                </div>
+                <div class="col-md-5 col-sm-6 col-xs-12">
+                    <div class="feature">
+                        <div class="feature-box">
+                            <div class="clearfix">
+                                <div class="iconset">
+                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h4>Work with heart</h4>
+                                    <p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-box">
+                            <div class="clearfix">
+                                <div class="iconset">
+                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h4>Reliable services</h4>
+                                    <p>Donec vitae sapien ut libero venenatis faucibu. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-box">
+                            <div class="clearfix">
+                                <div class="iconset">
+                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h4>Great support</h4>
+                                    <p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">
-            <a href="https://www.linkedin.com/in/josegregoriocalderon/" target="_blank">Linkedin</a>
-        </div>
-        <div class="col-md-4">
-            <a href="https://es.stackoverflow.com/users/1839/goyo?tab=profile" target="_blank">Stackoverflow</a>
-        </div>
-        <div class="col-md-4">
-            <a href="https://twitter.com/JoseGregoCal" target="_blank">Twiter</a>
-        </div>
-    </div>
 </div>
+
