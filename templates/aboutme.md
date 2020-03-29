@@ -5,9 +5,9 @@ css: "../css/about.css"
 ---
 
 <div class="aboutus-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="">
+            <div class="">
+                <div class="col-md-6">
                     <div class="aboutus">
                         <h2 class="aboutus-title">About Us</h2>
                         <p class="aboutus-text">Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.</p>
@@ -15,7 +15,7 @@ css: "../css/about.css"
                         <a class="aboutus-more" href="#">read more</a>
                     </div>
                 </div>
-                <div class="col-md-5 col-sm-6 col-xs-12">
+                <div class="col-md-6">
                     <div class="feature">
                         <div class="feature-box">
                             <div class="clearfix">
