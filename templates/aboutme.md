@@ -23,12 +23,10 @@ css: "../css/about.css"
                                 </div>
                                 <div class="feature-content">
                                     <h4>Desarrollador de Software</h4>
-                                    <ul>
-                                        <li><p>Desarrollador Frontend & Backend con Javascript (NodeJS y ReactJS).</p></li>
-                                        <li><p>Administrador de recursos en la nube (AWS), especificamente EC2, S3 y RDS.</p></li>
-                                        <li><p>Encargado de administrar las configuraciones de servidores Linux con (NGINX Y APACHE).</p></li>
-                                        <li><p>Encargado del mantenimiento de proyectos en PHP y AngularJS.</p></li>
-                                    </ul>
+                                    <p> - Desarrollador Frontend & Backend con Javascript (NodeJS y ReactJS).<br/>
+                                        - Administrador de recursos en la nube (AWS), especificamente EC2, S3 y RDS.<br/>
+                                        - Encargado de administrar las configuraciones de servidores Linux con (NGINX Y APACHE).<br/>
+                                        - Encargado del mantenimiento de proyectos en PHP y AngularJS.</p>
                                 </div>
                             </div>
                         </div>
