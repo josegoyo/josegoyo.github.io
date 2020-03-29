@@ -29,7 +29,8 @@ description: Blog personal.
 navbar-links:
   Blog: ""
   Acerca: "templates/aboutme"
-  #Contacto: "templates/contact"
+  Contacto: "templates/contact"
+  Portafolio: "templates/portafolio"
 
 
 # --- Footer options --- #
