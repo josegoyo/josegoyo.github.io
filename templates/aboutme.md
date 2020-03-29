@@ -19,18 +19,21 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <i class="fab fa-node-js"></i>
+                                    <i class="fab fa-node-js fa-3x"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h4>Work with heart</h4>
-                                    <p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.</p>
+                                    <h4>Desarrollador de Software</h4>
+                                    <p> - Desarrollador Frontend & Backend con Javascript (NodeJS y ReactJS).<br/>
+                                        - Administrador de recursos en la nube (AWS), especificamente EC2, S3 y RDS.<br/>
+                                        - Encargado de administrar las configuraciones de servidores Linux con (NGINX Y APACHE).<br/>
+                                        - Encargado del mantenimiento de proyectos en PHP y AngularJS.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <i class="fas fa-laptop-code"></i>
+                                    <i class="fas fa-laptop-code fa-3x"></i>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Reliable services</h4>
@@ -41,7 +44,7 @@ css: "../css/about.css"
                         <div class="feature-box">
                             <div class="clearfix">
                                 <div class="iconset">
-                                    <i class="fas fa-laptop-code"></i>
+                                    <i class="fas fa-laptop-code fa-3x"></i>
                                 </div>
                                 <div class="feature-content">
                                     <h4>Great support</h4>
