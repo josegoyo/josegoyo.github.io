@@ -85,6 +85,9 @@ a:hover, a:active {
     font-size: 13px;
     line-height: 22px;
 }
+.date-exp{
+    margin-top: -8px;
+}
 .icon {
     color : #f4b841;
     padding:0px;
