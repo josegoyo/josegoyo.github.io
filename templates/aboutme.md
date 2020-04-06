@@ -26,13 +26,13 @@ css: "../css/about.css"
                     <div class="aboutus">
                         <h3 class="aboutus-title"><i class="fas fa-medal"></i> Certificaciones</h3>
                         <p class="aboutus-text">
-                            <a href="https://www.coursera.org/account/accomplishments/certificate/2K8AUJNALTTG"  target="_blank">Front-End Web Development with React (Coursera)</a><br/>  
-                            <a href="https://www.coursera.org/account/accomplishments/certificate/5MW6MM44PAFJ"  target="_blank">Interactivity with JavaScript (Coursera)</a><br/>  
-                            <a href="https://www.coursera.org/account/accomplishments/certificate/SLC3H7MJ6B3D"  target="_blank">HTML5 (Coursera)</a><br/>  
-                            <a href="https://www.udemy.com/certificate/UC-GE9DRJ2K/"  target="_blank">AngularJS (Udemy)</a><br/> 
-                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/"  target="_blank">JavaScript (Udemy)</a><br/>  
-                            -Latinux Certification CLO (Latinux Inc)<br/>
-                            -Latinux Certification CLA (Latinux Inc)<br/>
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/2K8AUJNALTTG" target="_blank">Front-End Web Development with React (Coursera)</a><br/>  
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/5MW6MM44PAFJ" target="_blank">Interactivity with JavaScript (Coursera)</a><br/>  
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/SLC3H7MJ6B3D" target="_blank">HTML5 (Coursera)</a><br/>  
+                            <a href="https://www.udemy.com/certificate/UC-GE9DRJ2K/" target="_blank">AngularJS (Udemy)</a><br/> 
+                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/" target="_blank">JavaScript (Udemy)</a><br/>  
+                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/" target="_blank">Latinux Certification CLO (Latinux Inc) ID: MX2PBG00663CLO </a><br/>  
+                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/" target="_blank">Latinux Certification CLA (Latinux Inc) ID: MX2PBGF7942CLA</a><br/>  
                         </p>
                     </div>
                 </div>
