@@ -28,9 +28,10 @@ css: "../css/about.css"
                         <p class="aboutus-text">
                             <a href="https://www.coursera.org/account/accomplishments/certificate/2K8AUJNALTTG"  target="_blank">Front-End Web Development with React (Coursera)</a><br/>  
                             -Latinux Certification CLA (Latinux Inc)<br/>
-                            -AngularJS (Udemy)<br/>
+                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/"  target="_blank">AngularJS (Udemy)</a><br/>  
                             -Latinux Certification CLO (Latinux Inc)<br/>
-                            -Interactivity with JavaScript (Coursera)</p>
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/5MW6MM44PAFJ"  target="_blank">Interactivity with JavaScript (Coursera)</a><br/>  
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/SLC3H7MJ6B3D"  target="_blank">HTML5 (Coursera)</a><br/>  
                     </div>
                 </div>
                 <div class="col-md-6">
