@@ -31,8 +31,8 @@ css: "../css/about.css"
                             <a href="https://www.coursera.org/account/accomplishments/certificate/SLC3H7MJ6B3D" target="_blank">HTML5 (Coursera)</a><br/>  
                             <a href="https://www.udemy.com/certificate/UC-GE9DRJ2K/" target="_blank">AngularJS (Udemy)</a><br/> 
                             <a href="https://www.udemy.com/certificate/UC-M5DWG22G/" target="_blank">JavaScript (Udemy)</a><br/>  
-                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/" target="_blank">Latinux Certification CLO (Latinux Inc) ID: MX2PBG00663CLO </a><br/>  
-                            <a href="https://www.udemy.com/certificate/UC-M5DWG22G/" target="_blank">Latinux Certification CLA (Latinux Inc) ID: MX2PBGF7942CLA</a><br/>  
+                            <a href="http://www.latinux.org/es/comunidad/comunidad" target="_blank">Latinux Certification CLO (Latinux Inc) ID: MX2PBG00663CLO </a><br/>  
+                            <a href="http://www.latinux.org/es/comunidad/comunidad" target="_blank">Latinux Certification CLA (Latinux Inc) ID: MX2PBGF7942CLA</a><br/>  
                         </p>
                     </div>
                 </div>
