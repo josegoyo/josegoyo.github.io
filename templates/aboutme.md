@@ -26,6 +26,7 @@ css: "../css/about.css"
                     <div class="aboutus">
                         <h3 class="aboutus-title"><i class="fas fa-medal"></i> Certificaciones</h3>
                         <p class="aboutus-text">
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/2K8AUJNALTTG"  target="_blank">Front-End Web Development with React (Coursera)</a><br/>  
                             -Latinux Certification CLA (Latinux Inc)<br/>
                             -AngularJS (Udemy)<br/>
                             -Latinux Certification CLO (Latinux Inc)<br/>
