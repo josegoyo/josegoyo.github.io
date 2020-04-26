@@ -12,15 +12,15 @@ layout: default
         {% endif %}
         <span class="post-meta">posteado en {{ page.date | date: "%B %-d, %Y" }}</span>
       </div>
-     </div>
+    </div>
   </div>
 </header>
 
 <article>
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 contenedor">
-	  {{ content }}
-	</div>
+      {{ content }}
+    </div>
   </div>
 </article>
 
@@ -29,12 +29,14 @@ layout: default
     <ul class="pager blog-pager">
       {% if page.previous.url %}
       <li class="previous">
-        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Post Anterior</a>
+        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+          data-placement="top" title="{{page.previous.title}}">&larr; Post Anterior</a>
       </li>
       {% endif %}
       {% if page.next.url %}
       <li class="next">
-        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Siguiente Post &rarr;</a>
+        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+          data-placement="top" title="{{page.next.title}}">Siguiente Post &rarr;</a>
       </li>
       {% endif %}
     </ul>
@@ -43,12 +45,10 @@ layout: default
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- sub anuncio -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-6399493772246803"
-     data-ad-slot="5019120578"></ins>
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6399493772246803"
+  data-ad-slot="5019120578"></ins>
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
+  (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 {% if page.comments %}

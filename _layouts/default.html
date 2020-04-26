@@ -1,47 +1,49 @@
 ---
 common-css:
-  - "/css/bootstrap.min.css"
-  - "/css/main.css"
+- "/css/bootstrap.min.css"
+- "/css/main.css"
 common-ext-css:
-  - "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+- "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
 common-googlefonts:
-  - "Lora:400,700,400italic,700italic"
-  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+- "Lora:400,700,400italic,700italic"
+- "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
 common-js:
-  - "/js/jquery-1.11.2.min.js"
-  - "/js/bootstrap.min.js"
-  - "/js/main.js"
+- "/js/jquery-1.11.2.min.js"
+- "/js/bootstrap.min.js"
+- "/js/main.js"
 ---
 
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include nav.html %}
+  {% include nav.html %}
 
-    <div role="main" class="container main-content">
-      {{ content }}
-    </div>
+  <div role="main" class="container main-content">
+    {{ content }}
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-    {% include footer-scripts.html %}
+  {% include footer-scripts.html %}
 
-  </body>
-  <script type="text/javascript">
-      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = 'josegoyo'; // required: replace example with your forum shortname
-      // var disqus_developer = 1; // Comment out when the site is live
+</body>
+<script type="text/javascript">
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'josegoyo'; // required: replace example with your forum shortname
+  // var disqus_developer = 1; // Comment out when the site is live
 
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-      }());
-    </script>
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function () {
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'text/javascript';
+    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>
+
 </html>
