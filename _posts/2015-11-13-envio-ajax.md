@@ -14,7 +14,7 @@ NOTA: es muy importante que tengan JQuery referenciado ya sea por CDN o en archi
   <head>
 	<meta charset="UTF-8" />
    	<title> Acción onclick en js </title>
-   	// Aquí esta la referencia a jquery
+   	<!--Aquí esta la referencia a jquery-->
    	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
   </head>
   <body>
@@ -23,8 +23,8 @@ NOTA: es muy importante que tengan JQuery referenciado ya sea por CDN o en archi
 		<input type="password" name="contrasena" placeholder="Contraseña"/>
 		<input type="button" id="btn-ingresar" value="Ingresar" />
 	</form>
-	// Este div nos servirá para cachar la respuesta enviada 
-	// por el backend en caso de que sea necesario.
+	<!--Este div nos servirá para cachar la respuesta enviada 
+		por el backend en caso de que sea necesario.-->
 	<div id="resp"></div>
   </body>
 </html>
@@ -33,7 +33,8 @@ NOTA: es muy importante que tengan JQuery referenciado ya sea por CDN o en archi
 Ahora crearemos el script que se encargara de enviar los datos del formulario al backend a un archivo php, el código quedaría dela siguiente manera:
 
 {% highlight javascript linenos %}
-$(document).on('ready',function(){       
+$(document).on('ready',function(){ 
+
     $('#btn-ingresar').click(function(){
         var url = "datos_login.php";
         $.ajax({                        
@@ -46,6 +47,7 @@ $(document).on('ready',function(){
            }
        });
     });
+
 });
 {% endhighlight %}
 
@@ -69,7 +71,7 @@ Así quedaría el código completo del lado del html ya que el php queda como se
   <head>
 	<meta charset="UTF-8" />
    	<title> Acción onclick en js </title>
-   	// Aquí esta la referencia a jquery
+   	<!--Aquí esta la referencia a jquery-->
    	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 	<script>
 	$(document).on('ready',function(){
@@ -87,6 +89,7 @@ Así quedaría el código completo del lado del html ya que el php queda como se
 		   }
 		 });
 	  });
+
 	});
 	</script>
   </head>
@@ -96,8 +99,8 @@ Así quedaría el código completo del lado del html ya que el php queda como se
 		<input type="password" name="contrasena" placeholder="Contraseña"/>
 		<input type="button" id="btn-ingresar" value="Ingresar" />
 	</form>
-	// Este div nos servirá para cachar la respuesta enviada 
-	// por el backend en caso de que sea necesario.
+	<!--Este div nos servirá para cachar la respuesta enviada 
+		por el backend en caso de que sea necesario.-->
 	<div id="resp"></div>
   </body>
 </html>
