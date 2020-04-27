@@ -32,7 +32,7 @@ ponemos a leer un poco un ahí mismo nos dice como subir el proyecto a nuestro r
 
 Ahora veremos la estructura de nuestro proyecto que esta de la sigueinte manera:
 
-{% highlight javascript linenos %}
+{% highlight go linenos %}
 MiProyecto/
 |
 +-- js
@@ -47,7 +47,7 @@ MiProyecto/
 Ahora abriremos nuestra consola de Git y nos dirigiremos a la carpeta de nuestro proyecto (el que vamos a subir)
 e iniciaremos nuestro git con el siguiente comando 
 
-{% highlight javascript linenos %}
+{% highlight go linenos %}
 git init
 {% endhighlight %}
 
@@ -59,7 +59,7 @@ Ahora agregaremos todos los archivo de nuestro proyecto con el siguiente comando
 git add lo pueden leer checando la documentación oficial de [git add](https://git-scm.com/docs/git-add) pero
 como nosotros subiremos todos los archivos usaremos el siguiente.
 
-{% highlight javascript linenos %}
+{% highlight go linenos %}
 git add .
 {% endhighlight %}
 
@@ -70,7 +70,7 @@ En la consola no mostrara nada al darle enter solo saltará de linea esperando o
 Pasaremos a realizar nuestro primer commit con el siguiente comando, de igual manera si quieren checar mas documentación
 del comando [git commit](https://git-scm.com/docs/git-commit) pueden checar la pagina oficial.
 
-{% highlight javascript linenos %}
+{% highlight go linenos %}
 git commit -m "Mi primero commit, subiendo el proyecto"
 {% endhighlight %}
 
@@ -82,7 +82,7 @@ Ahora nos dirigiremos a la pantalla que nos mostro GitHub al crear el repositori
 https para nuestro siguiente comando, en donde agregaremos un remote a nuestro repositorio, eso con el siguiente
 comando.
 
-{% highlight javascript linenos %}
+{% highlight go linenos %}
 git remote add origin https://github.com/josegoyo/MiRepositorio.git
 {% endhighlight %}
 
@@ -94,7 +94,7 @@ En la consola no nos mostrará nada solo saltará de linea esperando una nueva e
 
 Ahora solo queda hacer nuestro push para que el proyecto se vaya para el repositorio, esto con el siguiente comando.
 
-{% highlight javascript linenos %}
+{% highlight go linenos %}
 git push -u origin master
 {% endhighlight %}
 
@@ -105,7 +105,7 @@ llamado "master", como lo muestra la siguiente imagen.
 
 > En caso de que les tire un error por configuracion de username y email, la configuración se hace con los siguientes comandos.
 
-{%highlight javascript linenos%}
+{%highlight go linenos%}
 git config --global user.name "tuUsuario"
 git config --global user.email tuCorreo@example.com
 {% endhighlight %}

@@ -10,7 +10,7 @@ Acá abajo pondre el codigo con algunos comentarios para su explicación.
 
 {% highlight java linenos %}
 public class Main {
-	  public static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		// Primero creamos nuestra matriz 
@@ -42,7 +42,7 @@ public class Main {
 		// Por ultimo solo pintamos las filas y
 		// columnas de nuestra matriz.				
 		System.out.println("Número de fila: "+numeros.length);
-		System.out.println("Número de columnas: "+numeros[0].length);  
+    System.out.println("Número de columnas: "+numeros[0].length);  
 	}
 }
 {% endhighlight %}
