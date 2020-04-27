@@ -2,7 +2,7 @@
 layout: post
 title: Retornar diferentes valores de una función en Swift.
 subtitle: Cómo retornar diferentes valores de una función en swift, usando tuplas.
-image: https://personal-buckets.s3-us-west-2.amazonaws.com/swift.jpg
+image: "https://personal-buckets.s3-us-west-2.amazonaws.com/swift.jpg"
 ---
 
 Las funciones basicamente son pequeños bloques de código que se encargar de una tarea en especifico y que podemos mandarlas llamar siempre que las necesitemos.
@@ -11,7 +11,7 @@ Veremos como definir una funcion y como podemos regresar mas de un tipo de dato 
 
 Aquí el ejemplo:
 
-```
+```js
 func Calc(peso: Double, altura: Double) -> (Double, String){
 
     let imc = peso / (altura \* altura)
@@ -30,7 +30,7 @@ func Calc(peso: Double, altura: Double) -> (Double, String){
 
 En la función de arriba lo que hacemos es calcular el índice de masa corporal, después de eso hacemos una pequeña validación para ver como estamos, y al final devolvemos la tupla, nótese que al definir la función indicamos que regresaremos una tupla, ahora veremos como mandar llamar la función y como podemos acceder a sus datos.
 
-```
+```js
 let resultadoImc = Calc(66.0, altura: 1.6);
 
 resultadoImc.0
