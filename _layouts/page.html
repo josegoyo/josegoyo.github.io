@@ -16,26 +16,16 @@ layout: default
     </div>
   </div>
 </header>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- anu-encabezado -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6399493772246803"
-  data-ad-slot="9588920975"></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 {% endif %}
 
 <div class="row contend-div">
   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
     {{ content }}
-    <!--
-	{% if page.comments %}
+
+    {% if page.comments %}
     <div class="disqus-comments">
-	  {% include disqus.html %}
+      {% include disqus.html %}
     </div>
-	{% endif %}
-	-->
+    {% endif %}
   </div>
 </div>
