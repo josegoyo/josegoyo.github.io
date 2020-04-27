@@ -11,7 +11,7 @@ Veremos como definir una funcion y como podemos regresar mas de un tipo de dato 
 
 Aquí el ejemplo:
 
-```swift
+{% highlight javascript %}
 func Calc(peso: Double, altura: Double) -> (Double, String){
 
     let imc = peso / (altura \* altura)
@@ -25,16 +25,17 @@ func Calc(peso: Double, altura: Double) -> (Double, String){
 
     let resultado = (imc, mensaje)
     return resultado
+
 }
-```
+{% endhighlight %}
 
 En la función de arriba lo que hacemos es calcular el índice de masa corporal, después de eso hacemos una pequeña validación para ver como estamos, y al final devolvemos la tupla, nótese que al definir la función indicamos que regresaremos una tupla, ahora veremos como mandar llamar la función y como podemos acceder a sus datos.
 
-```swift
+{% highlight javascript %}
 let resultadoImc = Calc(66.0, altura: 1.6);
 
 resultadoImc.0
 resultadoImc.1q
-```
+{% endhighlight %}
 
 Espero les sirva de algo, saludos.
