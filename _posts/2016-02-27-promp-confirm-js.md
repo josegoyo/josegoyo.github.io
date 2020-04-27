@@ -2,7 +2,7 @@
 layout: post
 title: Prompt y confirm en javaScript
 subtitle: como utilizar prompt y confirm en js.
-comments: true
+fb-img: https://personal-buckets.s3-us-west-2.amazonaws.com/javascript.jpg
 ---
 
 Ademas de la ya muy conocida función alert que tiene JavaScrip para la interacción con el usuario también cuenta con otras muy interesantes de las cuales hablaremos y veremos su sintaxis.

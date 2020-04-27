@@ -2,6 +2,7 @@
 layout: post
 title: Envio de datos por ajax usando JQuery.
 subtitle: Envio de datos de un formulario html por ajax
+fb-img: https://personal-buckets.s3-us-west-2.amazonaws.com/javascript.jpg
 ---
 
 Primero que nada les mostrare el pequeño formulario en donde supondremos que es un login, tendremos un input de tipo text para el nombre del usuario y un input de tipo password ademas de un input de tipo button para el envio de los datos, asi quedaria mas o menos el código:

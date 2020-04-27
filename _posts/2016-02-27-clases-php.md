@@ -2,6 +2,7 @@
 layout: post
 title: Clases en php.
 subtitle: Manipular clases en php.
+fb-img: https://personal-buckets.s3-us-west-2.amazonaws.com/php.jpg
 ---
 
 La programación orientada a objetos es una de las mejores técnicas, hoy en día muchos lenguajes de programación lo soportan ya que es fundamental optimizar código para tener un mejor orden en el nuestras lineas. Oviamente PHP no será la exepción es por eso que aquí les coloco un ejemplo de la creación de clases en PHP.

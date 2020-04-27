@@ -2,6 +2,7 @@
 layout: post
 title: Petición Get con $http en angular.js
 subtitle: Petición Get utilizando el servicio $http en angular.js
+fb-img: https://personal-buckets.s3-us-west-2.amazonaws.com/angular.jpg
 ---
 
 El servicio $http nos permite realizar peticiones ajax de un manera muy simple ya que solo tenemos que agregar el servicio a nuestro controlador y realizar la peticion que nosotros queramos.

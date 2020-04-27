@@ -2,6 +2,7 @@
 layout: post
 title: Primer proyecto en GitHub.
 subtitle: Subir mi proyecto a un reposotorio de GitHub con Git.
+fb-img: https://personal-buckets.s3-us-west-2.amazonaws.com/github.png
 ---
 
 Para comenzar a trabajar en equipo es muy importante saber utilizar una herramienta que nos permita

@@ -2,6 +2,7 @@
 layout: post
 title: Servidor con Nodejs
 subtitle: como crear un servidor basico con nodejs.
+fb-img: https://personal-buckets.s3-us-west-2.amazonaws.com/node.png
 ---
 
 Creando un servidor basico con nodejs.
