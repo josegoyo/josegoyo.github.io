@@ -16,6 +16,9 @@ url: "https://josegoyo.github.io"
 # Name of website
 title: Inicio
 
+# image of website
+image: https://personal-buckets.s3-us-west-2.amazonaws.com/angular.jpg
+
 # Short description of your site
 description: Blog personal.
 
