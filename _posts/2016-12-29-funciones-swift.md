@@ -3,6 +3,7 @@ layout: post
 title: Retornar diferentes valores de una función en Swift.
 subtitle: Cómo retornar diferentes valores de una función en swift, usando tuplas.
 image: https://personal-buckets.s3-us-west-2.amazonaws.com/swift.jpg
+share-img: https://personal-buckets.s3-us-west-2.amazonaws.com/swift.jpg
 ---
 
 Las funciones basicamente son pequeños bloques de código que se encargar de una tarea en especifico y que podemos mandarlas llamar siempre que las necesitemos.
