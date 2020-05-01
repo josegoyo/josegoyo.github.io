@@ -3,7 +3,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Open Sans' 'Times New Roman', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -69,7 +69,7 @@ hr.small {
 }
 
 .main-explain-area { /* --------------------------------------------------------- */
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   padding: 5px;
   text-align: center;
 }
@@ -114,7 +114,7 @@ img::-moz-selection {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -297,7 +297,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -334,7 +334,7 @@ header.header-page .page-heading .page-subheading {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -370,7 +370,7 @@ header.header-post .post-heading .post-subheading {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
