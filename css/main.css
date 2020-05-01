@@ -20,6 +20,7 @@ p a {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  color: #079992;
 }
 a {
   color: #008AFF;
@@ -349,6 +350,7 @@ header.header-post .post-heading .post-subheading {
 @media only screen and (min-width: 768px) {
   header.header-post .post-heading h1 {
     font-size: 40px;
+    color: #3c6382;
   }
 }
 
