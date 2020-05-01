@@ -299,7 +299,8 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Dosis', sans-serif
+  font-family: 'Dosis', sans-serif;
+  font-size: 19px;
 }
 .post-preview .post-read-more {
   font-weight: 800;
