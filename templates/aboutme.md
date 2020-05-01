@@ -48,7 +48,7 @@ css: "../css/about.css"
                                     <h4>Desarrollador de Software</h4>
                                     <h5>Innversa Solutions</h5>
                                     <p class="date-exp">oct. de 2018 – actualidad</p>
-                                    <p> -Desarrollador Frontend & Backend con Javascript (NodeJS y ReactJS).<br/>
+                                    <p class="aboutus-text"> -Desarrollador Frontend & Backend con Javascript (NodeJS y ReactJS).<br/>
                                         -Administrador de recursos en la nube (AWS), especificamente EC2, S3 y RDS.<br/>
                                         -Encargado de administrar las configuraciones de servidores Linux con (NGINX Y APACHE).<br/>
                                         -Encargado del mantenimiento de proyectos en PHP y AngularJS.</p>
@@ -64,7 +64,7 @@ css: "../css/about.css"
                                     <h4>Desarrollador Web</h4>
                                     <h5>Sayse Alarmas</h5>
                                     <p class="date-exp">may. de 2017 – ago. de 2019</p>
-                                    <p>-Desarrollador Frontend & Backend con PHP y AngularJS.</p>
+                                    <p class="aboutus-text">-Desarrollador Frontend & Backend con PHP y AngularJS.</p>
                                 </div>
                             </div>
                         </div>
@@ -77,7 +77,7 @@ css: "../css/about.css"
                                     <h4>Desarrollador Web</h4>
                                     <h5>Univisit.com S.A. de C.V.</h5>
                                     <p class="date-exp">ene. de 2015 – may. de 2017</p>
-                                    <p>-Desarrollador Frontend & Backend con .Net y AngularJS</p>
+                                    <p class="aboutus-text">-Desarrollador Frontend & Backend con .Net y AngularJS</p>
                                 </div>
                             </div>
                         </div>
