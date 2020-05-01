@@ -283,6 +283,7 @@ footer .theme-by {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
+  color: #079992;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -327,6 +328,7 @@ header.header-post .post-heading h1 {
 header.header-page .page-heading h1 {
   font-size: 50px;
   margin-top: 0;
+  color: #3c6382;
 }
 
 header.header-post .post-heading .post-subheading,
