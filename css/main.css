@@ -1,7 +1,9 @@
 @import url("pygment_highlights.css");
 
 /* --- General --- */
-
+.icon-main-page{
+  color: #0a3d62 !important;
+}
 body {
   font-family: 'Dosis', sans-serif !important;
   font-size: 22px;
