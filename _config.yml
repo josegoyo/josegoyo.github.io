@@ -32,7 +32,7 @@ description: Blog personal.
 navbar-links:
   Blog: ""
   Acerca: "templates/aboutme"
-  Portafolio: "templates/portafolio"
+#Portafolio: "templates/portafolio"
 
 # --- Footer options --- #
 
