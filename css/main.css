@@ -17,10 +17,21 @@ p a {
   /* text-decoration: underline */
   color: #008AFF;
 }
-h1,h2,h3,h4,h5,h6 {
+h2,h3,h4,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #079992;
+}
+h1 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  color: #079992;
+}
+h5{
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  color: #079992;
+  font-size: 2rem;
 }
 a {
   color: #008AFF;
@@ -61,7 +72,7 @@ hr.small {
 .main-content {
 	width: 100%;
 	margin: 0.5em auto;
-    margin-top: -4em;
+    margin-top: -1em;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
