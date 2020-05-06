@@ -26,6 +26,7 @@ css: "../css/about.css"
                     <div class="aboutus">
                         <h3 class="aboutus-title"><i class="fas fa-medal"></i> Certificaciones</h3>
                         <p class="aboutus-text">
+                            <a href="https://www.coursera.org/account/accomplishments/certificate/77FNURBPEF3K" target="_blank">Server-side Development with NodeJS, Express and MongoDB (Coursera)</a><br/>
                             <a href="https://www.coursera.org/account/accomplishments/certificate/2K8AUJNALTTG" target="_blank">Front-End Web Development with React (Coursera)</a><br/>  
                             <a href="https://www.coursera.org/account/accomplishments/certificate/5MW6MM44PAFJ" target="_blank">Interactivity with JavaScript (Coursera)</a><br/>  
                             <a href="https://www.coursera.org/account/accomplishments/certificate/SLC3H7MJ6B3D" target="_blank">HTML5 (Coursera)</a><br/>  
